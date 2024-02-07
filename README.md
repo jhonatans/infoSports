@@ -6,11 +6,11 @@ Proz Tecnologia - Talento Cloud - Turma 17
 O projeto é um site de esporte chamado InfoSports, nele é possível ver informações sobre diversos esportes,descobrir o seu 
 IMC (Indice de massa corporal) e também é possível fazer cadastro das suas informações pessoais.
 
-# 2) Por que Escolheu o projeto?
+# 2) Por que Escolhemos o projeto?
 
 Nós escolhemos esse projeto, devido ao nosso interesse pelo tema de esportes, além do fato da importância dos esportes na vida das pessoas.
 
-# 3) Qual diferencial do projeto?
+# 3) Qual o diferencial do projeto?
 
 Nosso projeto tem o diferencial de promover a interação do usuário com a página, através do formulário do IMC, onde o usuário preenche 
 para saber seu índice de massa corporal e recebe informações personalizadas sobre sua saúde, além de dicas relevantes para manter
