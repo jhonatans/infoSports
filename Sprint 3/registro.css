@@ -81,6 +81,10 @@ input {
   font-size: 20px;
 }
 
+.btn-concluir:hover {
+  background-color: #86a0cc;
+}
+
 @media(max-width: 770px) {
   form {
     width: 400px;
