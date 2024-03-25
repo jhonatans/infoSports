@@ -103,19 +103,23 @@ input::placeholder {
   }
 
   form {
+    width: 300px;
+  }
+
+  input {
     width: 200px;
   }
 }
 
 
 
-@media(max-width: 350px) {
+@media(max-width: 400px) {
   .box-content {
     width: 400px;
   }
 
   form {
-    width: 180px;
+    width: 220px;
   }
 
 
