@@ -90,6 +90,7 @@
     flex-direction: column;
     row-gap: 30px;
     border: 2px solid #6679bd;
+    border-radius: 15px;
     flex-wrap: wrap;
 }
 
