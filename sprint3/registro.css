@@ -104,6 +104,10 @@ input::placeholder {
     width: 70%;
   }
 
+  input {
+    width: 200px;
+  }
+
   .btn-concluir {
     width: 90%;
   }
