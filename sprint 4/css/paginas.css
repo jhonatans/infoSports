@@ -37,7 +37,7 @@ body {
     justify-content: center;
 }
 
-.categoryCard {
+.categoryCard{
     width: calc(100% - 20px);
     /* Ajuste a largura dos cards conforme necessário */
     margin: 10px;

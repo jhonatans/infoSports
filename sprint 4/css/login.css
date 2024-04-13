@@ -46,9 +46,11 @@ form {
   flex-direction: row;
   justify-content: center;
   align-items: center;
+  align-items: center;
   flex-wrap: wrap;
   border-radius: 25px;
   border-style: solid;
+  border-width: 1px;
   border-color: #6679bd;
   padding: 40px;
   height: 500px;
