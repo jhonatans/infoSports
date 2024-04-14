@@ -99,6 +99,7 @@ input::placeholder {
 
 
 
+
 @media(max-width: 500px) {
   form {
     width: 70%;
@@ -112,12 +113,12 @@ input::placeholder {
     width: 90%;
   }
 
+
 }
 
 @media(max-width: 350px) {
   form {
     width: 200px;
   }
-
 
 }
