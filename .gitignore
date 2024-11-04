@@ -1,0 +1,9 @@
+# Ignorar o arquivo de chave do Firebase
+firebaseKey.json
+
+# Ignorar o diretório de dependências do Node.js
+node_modules/
+
+# Outras pastas ou arquivos sensíveis que você deseja ignorar
+.env
+.DS_Store
